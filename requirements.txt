@@ -1,0 +1,10 @@
+# Versioni minime. Per una riproducibilità esatta sostituiscile con quelle del tuo ambiente (pip freeze | grep -i -E "pandas|numpy|matplotlib|seaborn|scipy|scikit-learn|lightgbm|shap")
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+scikit-learn>=1.4
+lightgbm>=4.3
+shap>=0.45
+jupyter
